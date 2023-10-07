@@ -24,7 +24,6 @@
     ·
     <a href="https://github.com/JackieChheng/WorkDayScheduler/issues">Request Feature</a>
   </p>
-</div>
 
 
 
