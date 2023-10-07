@@ -55,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[Work Day Scheduler](./Assets/images/Screenshot1.png)
+![Work Day Scheduler](./Assets/images/Screenshot1.png)
 This project is a simple Work Day Scheduler web application that allows users to plan and organize their workday by entering tasks or events into time-blocks corresponding to different hours of the day. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
